@@ -135,9 +135,9 @@ about.html
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownAbout">
             <a class="dropdown-item" href="#vision">Vision</a>
-            <a class="dropdown-item" href="#mission">equipment</a>
-            <a class="dropdown-item" href="#values">usage</a>
-            <a class="dropdown-item" href="#values">research</a>
+            <a class="dropdown-item" href="#equipment">equipment</a>
+            <a class="dropdown-item" href="#usage">usage</a>
+            <a class="dropdown-item" href="#research">research</a>
             <!-- Add more subheadings as needed -->
           </div>
         </li>
